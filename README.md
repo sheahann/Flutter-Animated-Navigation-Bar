@@ -2,7 +2,7 @@
 
 ## Installation
 You can either create a new file and then copy and paste the code from the main file or download the main file a put it inside your lib folder.
-.=
+
 ## Usage
 And example of usage
 
