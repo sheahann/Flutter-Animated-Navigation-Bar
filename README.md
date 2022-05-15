@@ -49,7 +49,7 @@ class _HomeState extends State<Home> {
                 titleType: NavBarTitleType.never,
                 activeColor: Colors.blue[500]!,
                 inactiveColor: Colors.blue[500]!.withOpacity(0.3),
-                // callback returns an index of the current selected icon, here you can load next page or whatever you wish
+                // callback returns an index of the current selected icon, here you can load next page or whatever you like
                 onChange: (int callback) {
                   setState(() {
                     currentItemIndex = callback;
