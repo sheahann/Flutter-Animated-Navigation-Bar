@@ -1,5 +1,7 @@
 # Custom animated bottom navigation bar for flutter applications
 
+https://user-images.githubusercontent.com/61119848/168467099-7564d3bd-8242-408c-b47c-1a43920a8cbb.mp4
+
 ## Installation
 You can either create a new file and then copy and paste the code from the main file or download the main file a put it inside your lib folder.
 
