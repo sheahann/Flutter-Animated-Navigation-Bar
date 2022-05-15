@@ -47,8 +47,6 @@ class _HomeState extends State<Home> {
                 icons: icons,
                 iconSize: 28,
                 titleType: NavBarTitleType.never,
-                // Don't forget to implement titles if you use NavBarTitleType.always, otherwise you get error
-                //titles: const ["home", "profile", "refresh", "menu", "data"],
                 activeColor: Colors.blue[500]!,
                 inactiveColor: Colors.blue[500]!.withOpacity(0.3),
                 // callback returns an index of the current selected icon, here you can load next page or whatever you wish
